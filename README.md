@@ -1,5 +1,5 @@
 # Cool-Project-Ideas
-For reference and simple project
+For reference and simple project.
 As for anyone who read this, need to remember that this cool idea project are not from my ideas.
 If you have more incredible and fantastic idea, you can create it on your own or you might refer on any better website.
 As for credential, these cool project can be referred on "https://www.freecodecamp.org/" for further information.
